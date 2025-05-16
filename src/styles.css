@@ -78,6 +78,7 @@ p.search-subtext:nth-child(3) {
 
 ul {
     padding: 0 10px;
+    max-height: 300px;
 }
 
 li {
